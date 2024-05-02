@@ -1,1 +1,1 @@
-# Hyg-eiaSculpture
+# HygieiaSculpture
